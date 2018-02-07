@@ -1,1 +1,8 @@
-
+{
+    "name": "responsivefilemanager_tinymce_plugin",
+    "description": "Yii2 Responsive File Manager TinyMCE Plugin",
+    "type": "yii2-tinymce-plugin",
+    "require": {
+        "tinymce/tinymce": ">=4"
+    }
+}
